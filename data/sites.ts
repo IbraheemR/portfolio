@@ -45,8 +45,8 @@ export default [
         "link": "https://oneshot.ibraheemrodrigues.repl.co/"
     },
     {
-        "name": "Banner Maker",
-        "description": "I made this web app because existing ones were not up to date with new patterns or super clunky.",
+        "name": "Minecraft Banner Maker",
+        "description": "I made this web app because existing ones were either not up to date or super clunky.",
         "image": banner,
         "link": "https://banner.ibraheemrodrigues.com"
     },
