@@ -1,5 +1,6 @@
 import rfc from "./images/rfc4.png";
 import oxcompsoc from "./images/oxcompsoc.png";
+import chimnie from "./images/chimnie.png";
 import arabicworkshop from "./images/arabicworkshop.png";
 import mnist from "./images/mnist.png";
 import pakit from "./images/pakit.png";
@@ -22,6 +23,13 @@ export default [
         "year": "2022 - 23",
         "image": oxcompsoc,
         "link": "https://ox.compsoc.net"
+    },
+    {
+        "name": "Chimnie",
+        "description": "I interned at real estate startup Chimnie where I built the backend for a prototype webapp.",
+        "year": "2021",
+        "image": chimnie,
+        "link": "https://www.chimnie.co.uk/"
     },
     {
         "name": "Catchment Tool",
