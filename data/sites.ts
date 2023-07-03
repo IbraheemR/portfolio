@@ -32,18 +32,18 @@ export default [
         "link": "https://www.chimnie.co.uk/"
     },
     {
-        "name": "Catchment Tool",
-        "description": "I developed this web app to make admin simpler for NHS staff.",
-        "year": "2019",
-        "image": catchment,
-        "link": "https://catchment.ibraheemrodrigues.com/?s=clapham"
-    },
-    {
         "name": "MNIST Explorer",
         "description": "I led this group project to create a realtime visulisation for the MNIST classifier AI.",
         "year": "2021",
         "image": mnist,
         "link": "https://mnist.ibraheemrodrigues.com"
+    },
+    {
+        "name": "Catchment Tool",
+        "description": "I developed this web app to make admin simpler for NHS staff.",
+        "year": "2019",
+        "image": catchment,
+        "link": "https://catchment.ibraheemrodrigues.com/?s=clapham"
     },
     {
         "name": "PAKit",
